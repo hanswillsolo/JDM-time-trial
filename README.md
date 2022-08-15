@@ -1,2 +1,2 @@
 # JDM-time-trial
-https://hasnwillsolo.github.io/JDM-time-trial/index.html
+https://hanswillsolo.github.io/JDM-time-trial/
